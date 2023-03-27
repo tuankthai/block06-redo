@@ -1,0 +1,59 @@
+/* footer styles*/
+footer{
+    text-align: center;
+}
+
+
+/* header styles*/
+header{
+    text-align: center;
+}
+
+
+/*Div styles*/
+div {
+    background-color: #CFD2B2;
+    width: 200px;
+    margin: 15px;
+    padding: 8px;
+    border-width: 1px;
+    border-color: black;
+}
+
+/* Img styles*/
+img {
+    width: 150px;
+    padding: 10px;
+}
+
+/*container styles*/
+
+.container {
+    /* border-radius: 5px; */
+    /* padding: 5px; */
+    /* background-color: blueviolet; */
+    /* background-color: rgb(207, 232, 220); */
+    /* border: 2px solid rgb(79, 185, 227); */
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: red;
+    background-color: antiquewhite;
+    margin: 0 38rem 0 23rem;
+}
+
+/* Section styles */
+section {
+    /* background-color: pink; */
+    color: green;
+    /* margin: 30px; */
+    grid-column: span 2;
+    border-spacing: 20px;
+}
+
+h3{
+    text-align: left;
+
+}
